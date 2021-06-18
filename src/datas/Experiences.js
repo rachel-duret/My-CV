@@ -1,7 +1,7 @@
 const dataExperiences = [
     {
         id: 1,
-        title: "Conseillère clientèle",
+        title: "Freelance",
         date: "2020 - 2021",
         societe: "Open Classroom ",
         location: "Paris",
