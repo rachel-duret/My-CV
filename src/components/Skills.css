@@ -1,0 +1,23 @@
+.skills{
+    margin: var(--spacing-3) 0;
+}
+.skill{
+    display: flex;
+    justify-content: space-between;
+    align-items: center ;
+}
+.skills-imgs{
+    display: flex;
+}
+.skills-imgs img, .interests img, .skills-langues img{
+    width: 50px;
+    height: 50px;
+}
+.skell-interests{
+    display: flex;
+    flex-direction: column;
+}
+.skills-imgs, .skills-langues, .interests{
+    display: flex;
+    justify-content: space-around;
+}
