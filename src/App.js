@@ -24,7 +24,6 @@ function App() {
         <div className="grid__container">
           <div className="sidebar">
             <div className="actions">
-           
               <button onClick={handleGenerateCv}>
                 <PictureAsPdfIcon />
               </button>
